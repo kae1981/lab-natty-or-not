@@ -23,20 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi desenvolvido um video com um avatar
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A IA Generativa utilizada foi a Elai.io
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Na ferramenta Elai.io, escolhi o avatar, voce pode escolher o tipo de avatar, depois selecionei o fundo da imagem, criei o texto para o avatar falar, para finalizar clica no botão render e a ferramento gera seu video.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+```como sempres muito criativo todos os desafios deste bootcamp, é a tecnologia inovadora que será muito util para todos nós.
 
 ### Exemplos e Insigths
 
@@ -49,3 +49,5 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+https://app.elai.io/video/669405cea2d8ab8f82d7f989/783344833712
